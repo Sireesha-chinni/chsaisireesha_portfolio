@@ -1,0 +1,110 @@
+/* *{
+    
+} */
+body{
+    background-color: black;
+}
+#cont1{
+    margin: 0px;
+    display: flex;
+}
+#img1{
+    height: 60px;
+    margin: 3px 6px;
+}
+#buttons{
+    text-decoration: none;
+    margin-left: 500px;
+}
+.box{
+    color:white;
+    border: 2px solid white;
+    background: linear-gradient(to right,black,blue);
+    border-radius: 10px;
+    margin: 15px 20px;
+}
+.box:hover{
+    color: white;
+    border: 2px solid black;
+    background: linear-gradient(to right,blue,black);
+}
+#cont2{
+    position: relative;
+    margin-top: 200px;
+    color: white;
+}
+#img2 img{
+    height: 300px;
+    margin-left: 180px;
+}
+#cont3{
+    margin-top: 170px;
+}
+#edu{
+    margin: 0px;
+    display: flex;
+    color: white;
+}
+#edu .box1{
+    border: 2px solid rgb(87, 109, 155);
+    padding: 10px;
+    margin: 0px 17px;
+    border-radius: 25px;
+    background-color: rgb(79, 76, 73);
+    margin-bottom: 20px;
+    width: 300px;
+}
+#edu .box1:hover{
+    width: 500px;
+}
+#img3{
+    height: 160px;
+    margin: auto;
+    display: block;
+}
+#edu h2{
+    margin-top: 50px;
+}
+#edu p{
+    font-family:cursive;
+}
+#edu span{
+    font-weight:bolder;
+}
+#cont4{
+    margin-top: 190px;
+}
+#work1{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+#work1 .box2{
+    border: 2px solid rgb(87, 109, 155);
+    padding: 10px;
+    margin: 0px 17px;
+    border-radius: 25px;
+    background-color: rgb(79, 76, 73);
+    margin-bottom: 20px;
+}
+#work2{
+    margin: 0px;
+    display: flex;
+    color: white;
+}
+#work2 .box3{
+    border: 2px solid rgb(87, 109, 155);
+    padding: 10px;
+    margin: 0px 17px;
+    border-radius: 25px;
+    background-color: rgb(79, 76, 73);
+    margin-bottom: 20px;
+}
+#cont5{
+    margin-top: 190px;
+    color: white;
+}
+#contact{
+    margin-top: 100px;
+}
